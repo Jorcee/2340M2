@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Person2",
+            "request": "launch",
+            "mainClass": "edu.gatech.oad.antlab.person.Person2",
+            "projectName": "2340M2_4c6fd051"
+        }
+    ]
+}
